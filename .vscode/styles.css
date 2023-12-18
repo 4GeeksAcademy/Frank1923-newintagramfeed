@@ -1,0 +1,22 @@
+.card-body img {
+    max-width: 100%;
+    min-width: 100%;
+  }
+  .modal-btn {
+    width: 42px;
+  }
+  .feed-panel {
+    max-width: 600px;
+  }
+  .collapse .show {
+    justify-content: end;
+  }
+  .image-overlay {
+    opacity: 0;
+  }
+  .image-container:hover img {
+    opacity: 0.3;
+  }
+  .image-container:hover .image-overlay {
+    opacity: 1;
+  }
